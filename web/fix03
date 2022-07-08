@@ -9,7 +9,7 @@
 
 <body>
     Hello World!
-    <img src="/images/default-source/default-album/social-media/wall-2/5.jpg" alt="5" title="5">
+    <img src="/images/default-source/default-album/social-media/wall-2/5.jpg" alt="5" title="5" width="640" height="360">
 </body>
 
 </html>
