@@ -1,0 +1,11 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [{
+        "name": "Yun Keat",
+        "email": "joshuatanyunkeat@gmail.com"
+    }],
+    "require": {}
+}
