@@ -7,6 +7,5 @@
 </head>
 <body>
   Hello World!
-  <a href="/discover/why-rp/vibrant-student-life" class="green-btn">Learn More</a>
 </body>
 </html>
